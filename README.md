@@ -22,9 +22,9 @@ Top 10 :
             Business Model - 24%
             Funding - 14 %
 
-            idea  execution:
+            idea  execution
 
-            best is timing:
+            best is timing
 
 
 <a href="http://starwalt.in/Blogs/index.html">Follow us on Blog</a>
