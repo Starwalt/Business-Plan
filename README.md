@@ -1,5 +1,7 @@
 # Business-Plan
 
+THINK BIG
+
 Top 10 :
 
       Sales
