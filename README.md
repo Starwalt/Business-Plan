@@ -1,6 +1,6 @@
 # Business-Plan
 
-THINK BIG
+## THINK BIG
 
 Top 10 :
 
