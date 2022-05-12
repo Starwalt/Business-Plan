@@ -4,13 +4,13 @@
 
 Top 10 :
 
-      Sales
-      Marketing
-      Finance
-      Sop system
-      Right people
+    ->  Sales
+    ->  Marketing
+    ->  Finance
+    ->  Sop system
+    ->  Right people
       
-      IDEA 
+    ->   IDEA 
             TEAM  - plan till punched in face
             Business Model
             Funding
@@ -28,6 +28,30 @@ Top 10 :
 
             best is timing
 
+
+->  Website:
+
+```
+
+      -> Home
+      -> Orders
+      -> Products
+      -> Customers
+      -> Analytics - Google Analyticsm, SEO Google search
+      -> Marketing - Instagram Marketing, Facebook Marketing
+      -> Discounts - 
+      -> Apps
+
+
+Online Store:
+
+-> Themes
+-> Blog posts
+-> Pages
+-> Navigation
+-> Preferences
+
+```
 
 <a href="http://starwalt.in/Blogs/index.html">Follow us on Blog</a>
 
