@@ -1,5 +1,24 @@
 # Business-Plan
 
+
+```
+
+A business website can also contain either following sections:
+
+        Company Vision
+        Available Jobs
+        Our Team
+        Our clients
+        Testimonials
+        Blog
+        Events
+        FAQ
+        Products
+        News
+        Terms and conditions
+
+```
+
 ## THINK BIG
 
 Top 10 :
